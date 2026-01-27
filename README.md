@@ -33,4 +33,4 @@ Ingeniero de Software con base en **Madrid**, enfocado en construir aplicaciones
 - Migración de arquitecturas Express a **NestJS** para entornos Enterprise.
 - Implementación de pipelines de CI/CD para automatizar testing en el frontend.
 
-[LinkedIn](https://www.linkedin.com/in/tu-usuario/) • [Portfolio](https://tu-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/cesarpausin) • [Portfolio](https://cesar-pausin.up.railway.app/)
