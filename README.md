@@ -1,4 +1,4 @@
-### Hola, soy César Andrés Pausin 👋
+### Hola, soy César Andrés Pausin
 #### Full Stack Software Engineer | React, Next.js & NestJS
 
 Ingeniero de Software con base en **Madrid**, enfocado en construir aplicaciones escalables y mantenibles. Me especializo en el ecosistema JavaScript/TypeScript, priorizando la arquitectura limpia, el rendimiento y la calidad del código.
